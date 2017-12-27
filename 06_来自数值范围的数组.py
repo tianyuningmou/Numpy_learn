@@ -3,7 +3,7 @@
 """
 Copyright () 2017
 
-All rights reserved by easyto
+All rights reserved by tianyuningmou
 
 FILE: 06_来自数值范围的数组.py
 AUTHOR:  tianyuningmou
