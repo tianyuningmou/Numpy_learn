@@ -25,4 +25,9 @@ import numpy as np
 
 array_first = np.arange(0, 60, 5)
 array_first = array_first.reshape(3, 4)
-
+print('原始数组是：\n')
+print(array_first)
+print('\n')
+print('修改后的数组是：\n')
+for array_every in np.nditer(array_first):
+    print(array_every)
